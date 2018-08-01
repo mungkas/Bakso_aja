@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bakso_aja</string>
+    <string name="lg">Login</string>
+    <string name="nm">nama</string>
+    <string name="pw">password</string>
+    <string name="sb">Submit</string>
+    <string name="mj">Bakso Beranak</string>
+    <string name="harga">Rp. 12.000,-</string>
+</resources>
